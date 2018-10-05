@@ -3,7 +3,7 @@ Resources,cheat sheets to learn about machine learning
 
 Hello World!
 
-Here I will put pdf files, cheat sheets, anything I have found to be interesting and useful for anyone who wants to start learning about Machine Learning, which is a huge topic and one may get lost into the overwhelming amount of information on the internet. I like getting the basics right so you will find a lot of linear algebra and probability revision (I have not found a resource that satisfies me for calculus, not that many really interesting things would be needed anyway). 
+Here I will put pdf files, cheat sheets, anything I have found to be interesting and useful for anyone who wants to start learning about Machine Learning, which is a huge topic and one may get lost into the overwhelming amount of information on the internet. I like getting the basics right so you will find a lot of linear algebra and probability revision (I have not found a resource that satisfies me for calculus, not that many really interesting things would be needed anyway). I plan to include both very academic/mathsy resources, but also more practical/applied/coder friendly ones.
 I will be updating this fairly frequently especially at the beginning. Feel free to make me suggestions.
 Hopefully you will find some things useful, 
 
@@ -22,5 +22,6 @@ YOUTUBE RESOURCES
 - Siraj Raval : https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/videos
 - MIT Introduction to Deep Learning : https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
 - Regularisation Methods for Machine Learning: https://www.youtube.com/playlist?list=PLbF0BXX_6CPJ20Gf_KbLFnPWjFTvvRwCO
-- 
+- Fast AI courses : http://www.fast.ai
+- Oxford Deep Learning : https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
 
