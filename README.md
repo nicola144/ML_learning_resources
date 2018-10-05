@@ -22,8 +22,12 @@ YOUTUBE RESOURCES
 - Siraj Raval : https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/videos
 - MIT Introduction to Deep Learning : https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
 - Regularisation Methods for Machine Learning: https://www.youtube.com/playlist?list=PLbF0BXX_6CPJ20Gf_KbLFnPWjFTvvRwCO
+
+
+GENERAL ONLINE RESOURCES
 - Fast AI courses : http://www.fast.ai
 - Oxford Deep Learning : https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
+- Edinburgh's INF2B: http://www.inf.ed.ac.uk/teaching/courses/inf2b/lectureSchedule.html
 
 
 ACTUALLY INTERESTING TALKS ABOUT AI AND ML 
