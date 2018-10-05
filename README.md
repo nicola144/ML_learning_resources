@@ -13,3 +13,14 @@ Nicola
 AICamp notes credit : Kainos https://www.kainos.com
 
 
+YOUTUBE RESOURCES 
+
+- 3Blue1Brown playlist on NN (just watch it ! ) : https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+- RL playlist by David Silver : https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
+- CS231n Convolutional Neural Networks for Image Recognition, Stanford: https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk
+- Neural Networks class, Université de Sherbrooke: https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH
+- Siraj Raval : https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/videos
+- MIT Introduction to Deep Learning : https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
+- Regularisation Methods for Machine Learning: https://www.youtube.com/playlist?list=PLbF0BXX_6CPJ20Gf_KbLFnPWjFTvvRwCO
+- 
+
