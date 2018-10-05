@@ -10,3 +10,6 @@ Hopefully you will find some things useful,
 Nicola 
 
 
+AICamp notes credit : Kainos https://www.kainos.com
+
+
