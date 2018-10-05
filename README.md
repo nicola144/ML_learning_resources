@@ -35,3 +35,8 @@ ACTUALLY INTERESTING TALKS ABOUT AI AND ML
 - https://www.youtube.com/watch?v=zhkTHkIZJEc
 - https://www.youtube.com/watch?v=Wujy7OzvdJk&t=275s
 
+
+OTHER 
+- TensorBoard: http://www.inf.ed.ac.uk/teaching/courses/inf2b/lectureSchedule.html
+- Comet.ml: https://www.comet.ml
+
