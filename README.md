@@ -37,6 +37,6 @@ ACTUALLY INTERESTING TALKS ABOUT AI AND ML
 
 
 OTHER 
-- TensorBoard: http://www.inf.ed.ac.uk/teaching/courses/inf2b/lectureSchedule.html
+- TensorBoard: https://www.tensorflow.org/guide/summaries_and_tensorboard
 - Comet.ml: https://www.comet.ml
 
