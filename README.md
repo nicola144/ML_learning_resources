@@ -25,3 +25,7 @@ YOUTUBE RESOURCES
 - Fast AI courses : http://www.fast.ai
 - Oxford Deep Learning : https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
 
+
+ACTUALLY INTERESTING TALKS ABOUT AI AND ML 
+- https://www.youtube.com/watch?v=zYfzux7JKHE&t=2694s
+
