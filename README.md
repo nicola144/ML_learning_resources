@@ -32,6 +32,7 @@ GENERAL ONLINE RESOURCES
 
 
 ACTUALLY INTERESTING TALKS ABOUT AI AND ML 
+- https://www.youtube.com/watch?v=ORHFOnaEzPc
 - https://www.youtube.com/watch?v=zYfzux7JKHE&t=2694s
 - https://www.youtube.com/watch?v=zhkTHkIZJEc
 - https://www.youtube.com/watch?v=Wujy7OzvdJk&t=275s
