@@ -19,7 +19,8 @@ YOUTUBE RESOURCES
 - RL playlist by David Silver : https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
 - CS231n Convolutional Neural Networks for Image Recognition, Stanford: https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk
 - Neural Networks class, Université de Sherbrooke: https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH
-- Siraj Raval : https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/videos
+- Siraj Raval channel on AI education and outreach: https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/videos
+- Robert Miles channel on AI safety: https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg
 - MIT Introduction to Deep Learning : https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
 - Regularisation Methods for Machine Learning: https://www.youtube.com/playlist?list=PLbF0BXX_6CPJ20Gf_KbLFnPWjFTvvRwCO
 
