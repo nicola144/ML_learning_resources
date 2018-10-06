@@ -32,10 +32,10 @@ GENERAL ONLINE RESOURCES
 
 
 ACTUALLY INTERESTING TALKS ABOUT AI AND ML 
-- https://www.youtube.com/watch?v=ORHFOnaEzPc
-- https://www.youtube.com/watch?v=zYfzux7JKHE&t=2694s
-- https://www.youtube.com/watch?v=zhkTHkIZJEc
-- https://www.youtube.com/watch?v=Wujy7OzvdJk&t=275s
+- Ali Rahimi At NIPS 2017 criticizing the current state of ML research, comparing it with "alchemy": https://www.youtube.com/watch?v=ORHFOnaEzPc
+- Demis Hassabis, DeepMind CEO, on the future of AI: https://www.youtube.com/watch?v=zYfzux7JKHE&t=2694s
+- Garry Kasparov on insights into his match with DeepBlue and the future: https://www.youtube.com/watch?v=zhkTHkIZJEc
+- 2017 NIPS Keynote by DeepMind's David Silver: https://www.youtube.com/watch?v=Wujy7OzvdJk&t=275s
 
 
 OTHER 
