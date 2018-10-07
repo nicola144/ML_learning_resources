@@ -30,6 +30,7 @@ GENERAL ONLINE RESOURCES
 - Oxford Deep Learning : https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
 - Edinburgh's INF2B: http://www.inf.ed.ac.uk/teaching/courses/inf2b/lectureSchedule.html
 - MIT Statistical Learning Theory: http://www.mit.edu/~9.520/fall18/
+- A Derivation of Backpropagation in Matrix Form: https://sudeepraja.github.io/Neural/
 
 
 ACTUALLY INTERESTING TALKS ABOUT AI AND ML 
