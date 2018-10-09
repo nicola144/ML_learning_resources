@@ -9,6 +9,8 @@ Hopefully you will find some things useful,
 
 Nicola 
 
+Note : ALL the material is accessible online, no shaky things here.
+
 
 AICamp notes credit : Kainos https://www.kainos.com
 
