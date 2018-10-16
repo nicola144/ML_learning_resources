@@ -28,6 +28,7 @@ YOUTUBE RESOURCES
 
 
 GENERAL ONLINE RESOURCES
+- MIT Science of Intelligence: http://cbmm.mit.edu/9-523/schedule
 - Fast AI courses : http://www.fast.ai
 - Oxford Deep Learning : https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
 - Edinburgh's INF2B: http://www.inf.ed.ac.uk/teaching/courses/inf2b/lectureSchedule.html
