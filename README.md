@@ -14,7 +14,7 @@ Note : ALL the material is accessible online, no shaky things here.
 
 AICamp notes credit : Kainos https://www.kainos.com
 
-AMAZING LITERATURE REVIEWS
+GREAT LITERATURE REVIEWS
 - LeCun, Y., Bengio, Y. and Hinton, G., 2015. Deep learning. nature, 521(7553), p.436.
   link:   https://creativecoding.soe.ucsc.edu/courses/cs523/slides/week3/DeepLearning_LeCun.pdf
   
