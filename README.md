@@ -14,6 +14,19 @@ Note : ALL the material is accessible online, no shaky things here.
 
 AICamp notes credit : Kainos https://www.kainos.com
 
+AMAZING LITERATURE REVIEWS
+- LeCun, Y., Bengio, Y. and Hinton, G., 2015. Deep learning. nature, 521(7553), p.436.
+  link:   https://creativecoding.soe.ucsc.edu/courses/cs523/slides/week3/DeepLearning_LeCun.pdf
+  
+- Hassabis, D., Kumaran, D., Summerfield, C. and Botvinick, M., 2017. Neuroscience-inspired artificial intelligence. Neuron, 95(2), pp.245-258. 
+
+- Ghahramani, Z., 2015. Probabilistic machine learning and artificial intelligence. Nature, 521(7553), p.452.
+link: https://www.repository.cam.ac.uk/bitstream/handle/1810/248538/Ghahramani%25202015%2520Nature.pdf?sequence=1
+
+- Shahriari, B., Swersky, K., Wang, Z., Adams, R.P. and De Freitas, N., 2016. Taking the human out of the loop: A review of bayesian optimization. Proceedings of the IEEE, 104(1), pp.148-175.
+Vancouver	
+link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7352306
+
 
 YOUTUBE RESOURCES 
 
