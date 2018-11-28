@@ -9,6 +9,8 @@ Hopefully you will find some things useful,
 
 Nicola 
 
+(P.S. : Guess why my profile picture is an optical illusion..)
+
 Note : ALL the material is accessible online, no shaky things here.
 
 
