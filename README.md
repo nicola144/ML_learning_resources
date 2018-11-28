@@ -63,3 +63,6 @@ OTHER
 - TensorBoard: https://www.tensorflow.org/guide/summaries_and_tensorboard
 - Comet.ml: https://www.comet.ml
 
+FOR ML CONFERENCES:
+- NIPS
+- ICML
