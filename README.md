@@ -55,6 +55,7 @@ ACTUALLY INTERESTING TALKS ABOUT AI AND ML
 - Garry Kasparov on insights into his match with DeepBlue and the future: https://www.youtube.com/watch?v=zhkTHkIZJEc
 - 2017 NIPS Keynote by DeepMind's David Silver: https://www.youtube.com/watch?v=Wujy7OzvdJk&t=275s
 - Yann LeCun on the future of AI: https://www.youtube.com/watch?v=U2mhZ9E8Fk8
+- Zoubin Ghahramani - Probabilistic Machine Learning - The Frontiers of Machine Learning: https://www.youtube.com/watch?v=QEq96wib5tw
 - Interview to Marvin Minsky: https://www.youtube.com/watch?v=EI0NXTrS5Pw
 
 
