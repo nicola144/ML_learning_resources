@@ -12,6 +12,8 @@ Nicola
 Note : ALL the material is accessible online, no shaky things here.
 
 
+- What is ML ? N.D. Lawrence :http://videolectures.net/mlss2010_lawrence_mlfcs/
+
 AICamp notes credit : Kainos https://www.kainos.com
 
 GREAT LITERATURE REVIEWS
