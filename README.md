@@ -49,6 +49,7 @@ GENERAL ONLINE RESOURCES
 - Edinburgh's INF2B: http://www.inf.ed.ac.uk/teaching/courses/inf2b/lectureSchedule.html
 - MIT Statistical Learning Theory: http://www.mit.edu/~9.520/fall18/
 - A Derivation of Backpropagation in Matrix Form (this was useful for me to have a picture of the overall process, as usually it is presented in vector or even scalar form) : https://sudeepraja.github.io/Neural/
+- An introduction to modern Deep Learning , Yann LeCun : https://cs.nyu.edu/~yann/talks/lecun-ranzato-icml2013.pdf
 
 
 ACTUALLY INTERESTING TALKS ABOUT AI AND ML 
