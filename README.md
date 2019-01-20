@@ -42,6 +42,7 @@ YOUTUBE RESOURCES
 - Robert Miles channel on AI safety: https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg
 - MIT Introduction to Deep Learning : https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
 - Regularisation Methods for Machine Learning: https://www.youtube.com/playlist?list=PLbF0BXX_6CPJ20Gf_KbLFnPWjFTvvRwCO
+- Machine Learning (TUM): https://www.youtube.com/channel/UCpyPuMAyBvERU8YMngGy11g
 
 
 GENERAL ONLINE RESOURCES
