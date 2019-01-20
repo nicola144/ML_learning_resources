@@ -69,5 +69,5 @@ OTHER
 - Comet.ml: https://www.comet.ml
 
 FOR ML CONFERENCES:
-- NIPS
-- ICML
+- NIPS: https://papers.nips.cc
+- ICML: http://proceedings.mlr.press
