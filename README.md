@@ -76,5 +76,5 @@ OTHER
 - Comet.ml: https://www.comet.ml
 
 FOR ML CONFERENCES:
-- NIPS: https://papers.nips.cc
+- NeurIPS: https://papers.nips.cc
 - ICML: http://proceedings.mlr.press
