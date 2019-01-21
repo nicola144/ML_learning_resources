@@ -32,6 +32,11 @@ Vancouver
 link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7352306
 
 
+ML Courses : 
+- Machine Learning and Pattern Recognition, University of Edinburgh: https://www.inf.ed.ac.uk/teaching/courses/mlpr/2018/lectures/
+- Oxford Deep Learning : https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
+- MIT Statistical Learning Theory: http://www.mit.edu/~9.520/fall18/
+- Reinforcement Learning, University of Edinburgh: https://www.learn.ed.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_65147_1&content_id=_3052642_1&mode=reset
 YOUTUBE RESOURCES 
 
 - 3Blue1Brown playlist on NN (just watch it ! ) : https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
@@ -48,9 +53,7 @@ YOUTUBE RESOURCES
 GENERAL ONLINE RESOURCES
 - MIT Science of Intelligence: http://cbmm.mit.edu/9-523/schedule
 - Fast AI courses : http://www.fast.ai
-- Oxford Deep Learning : https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
 - Edinburgh's INF2B: http://www.inf.ed.ac.uk/teaching/courses/inf2b/lectureSchedule.html
-- MIT Statistical Learning Theory: http://www.mit.edu/~9.520/fall18/
 - A Derivation of Backpropagation in Matrix Form (this was useful for me to have a picture of the overall process, as usually it is presented in vector or even scalar form) : https://sudeepraja.github.io/Neural/
 - An introduction to modern Deep Learning , Yann LeCun : https://cs.nyu.edu/~yann/talks/lecun-ranzato-icml2013.pdf
 
