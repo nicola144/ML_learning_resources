@@ -79,3 +79,22 @@ OTHER
 FOR ML CONFERENCES:
 - NeurIPS: https://papers.nips.cc
 - ICML: http://proceedings.mlr.press
+
+An obviously incomplete list of people working in ML that you should know about 
+- Zoubin Ghahramani
+- Michael Jordan 
+- Carl Edward Rasmussen 
+- Geoffrey Hinton 
+- Yoshua Bengio 
+- Yann Lecun 
+- Andrew Ng 
+- Tomaso Poggio 
+- David Silver 
+- Demis Hassabis 
+- Nando De Freitas 
+- Ian Murray 
+- Chris Bishop 
+- Stuart Russell 
+- Ian Goodfellow 
+- Andrej Karpathy
+
