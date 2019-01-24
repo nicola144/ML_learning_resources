@@ -98,4 +98,4 @@ An obviously incomplete list of people working in ML that you should know about
 - Ian Goodfellow 
 - Andrej Karpathy
 - David J. C. MacKay
-
+- Richard Sutton
