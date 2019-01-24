@@ -97,4 +97,5 @@ An obviously incomplete list of people working in ML that you should know about
 - Stuart Russell 
 - Ian Goodfellow 
 - Andrej Karpathy
+- David J. C. MacKay
 
