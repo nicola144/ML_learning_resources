@@ -25,6 +25,7 @@ ML COURSES :
 - MIT Statistical Learning Theory: http://www.mit.edu/~9.520/fall18/
 - Reinforcement Learning, University of Edinburgh: https://www.learn.ed.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_65147_1&content_id=_3052642_1&mode=reset
 - Deep Learning, Carnegie Mellon University: http://deeplearning.cs.cmu.edu
+- Deep Reinforcement Learning, University of California, Berkeley: http://rail.eecs.berkeley.edu/deeprlcourse/
 
 
 GREAT LITERATURE REVIEWS
