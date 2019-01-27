@@ -67,6 +67,7 @@ ACTUALLY INTERESTING TALKS ABOUT AI AND ML
 - Ali Rahimi At NIPS 2017 criticizing the current state of ML research, comparing it with "alchemy": https://www.youtube.com/watch?v=ORHFOnaEzPc
 - Demis Hassabis, DeepMind CEO, on the future of AI: https://www.youtube.com/watch?v=zYfzux7JKHE&t=2694s
 - Garry Kasparov on insights into his match with DeepBlue and the future: https://www.youtube.com/watch?v=zhkTHkIZJEc
+- 2017 NIPS Interpretability in ML, debate : https://www.youtube.com/watch?v=93Xv8vJ2acI
 - 2017 NIPS Keynote by DeepMind's David Silver: https://www.youtube.com/watch?v=Wujy7OzvdJk&t=275s
 - Yann LeCun on the future of AI: https://www.youtube.com/watch?v=U2mhZ9E8Fk8
 - Zoubin Ghahramani - Probabilistic Machine Learning - The Frontiers of Machine Learning: https://www.youtube.com/watch?v=QEq96wib5tw
