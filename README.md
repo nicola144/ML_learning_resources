@@ -61,7 +61,7 @@ GENERAL ONLINE RESOURCES
 - Edinburgh's INF2B: http://www.inf.ed.ac.uk/teaching/courses/inf2b/lectureSchedule.html
 - A Derivation of Backpropagation in Matrix Form (this was useful for me to have a picture of the overall process, as usually it is presented in vector or even scalar form) : https://sudeepraja.github.io/Neural/
 - An introduction to modern Deep Learning , Yann LeCun : https://cs.nyu.edu/~yann/talks/lecun-ranzato-icml2013.pdf
-
+- Create deep learning visualizations ! : http://alexlenail.me/NN-SVG/LeNet.html
 
 ACTUALLY INTERESTING TALKS ABOUT AI AND ML 
 - Ali Rahimi At NIPS 2017 criticizing the current state of ML research, comparing it with "alchemy": https://www.youtube.com/watch?v=ORHFOnaEzPc
