@@ -18,7 +18,7 @@ Note : ALL the material is accessible online, no shaky things here.
 
 AICamp notes credit : Kainos https://www.kainos.com
 
-ML COURSES (these are all reeeeally good): 
+ML COURSES: 
 - Machine Learning and Pattern Recognition, University of Edinburgh: https://www.inf.ed.ac.uk/teaching/courses/mlpr/2018/lectures/
 - Machine Learning (Graduate), UBC (Nando De Freitas): https://www.cs.ubc.ca/~nando/540-2013/lectures.html
 - Introduction to Machine Learning, NYU: https://cs.nyu.edu/~mohri/mlu/
