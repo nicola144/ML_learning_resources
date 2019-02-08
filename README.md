@@ -27,6 +27,7 @@ AICamp notes credit : Kainos https://www.kainos.com
 - Introduction to Machine Learning, NYU: https://cs.nyu.edu/~mohri/mlu/
 - Oxford Deep Learning : https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
 - Reinforcement Learning, University of Edinburgh: https://www.learn.ed.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_65147_1&content_id=_3052642_1&mode=reset
+- Reinformcement Learning, Richard Sutton: https://drive.google.com/drive/folders/183rD3ERC0ZrH5qc0iGAFbp_3PECGLfby
 - Deep Learning, Carnegie Mellon University: http://deeplearning.cs.cmu.edu
 - Deep Reinforcement Learning, University of California, Berkeley: http://rail.eecs.berkeley.edu/deeprlcourse/
 
