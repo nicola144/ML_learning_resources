@@ -18,7 +18,7 @@ Note : ALL the material is accessible online, no shaky things here.
 
 AICamp notes credit : Kainos https://www.kainos.com
 
-**ML COURSES** 
+**ML COURSES** (all great, no particular order)
 - Machine Learning and Pattern Recognition, University of Edinburgh: https://www.inf.ed.ac.uk/teaching/courses/mlpr/2018/lectures/
 - Machine Learning (Graduate), UBC (Nando De Freitas): https://www.cs.ubc.ca/~nando/540-2013/lectures.html
 - MIT Statistical Learning Theory: http://www.mit.edu/~9.520/fall18/
