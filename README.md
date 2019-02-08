@@ -42,7 +42,7 @@ link: https://www.repository.cam.ac.uk/bitstream/handle/1810/248538/Ghahramani%2
 Vancouver	
 link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7352306
 
-- Tomaso Poggio et al. , Why and When Can Deep-but Not Shallow-networks Avoid the Curse of Dimensionality: A Review 
+- Tomaso Poggio et al. , Why and When Can Deep-but Not Shallow-networks Avoid the Curse of Dimensionality: A Review , 2017
 http://cbmm.mit.edu/sites/default/files/publications/art%253A10.1007%252Fs11633-017-1054-2.pdf
 
 
