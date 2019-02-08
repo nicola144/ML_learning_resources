@@ -21,9 +21,9 @@ AICamp notes credit : Kainos https://www.kainos.com
 **ML COURSES** 
 - Machine Learning and Pattern Recognition, University of Edinburgh: https://www.inf.ed.ac.uk/teaching/courses/mlpr/2018/lectures/
 - Machine Learning (Graduate), UBC (Nando De Freitas): https://www.cs.ubc.ca/~nando/540-2013/lectures.html
+- MIT Statistical Learning Theory: http://www.mit.edu/~9.520/fall18/
 - Introduction to Machine Learning, NYU: https://cs.nyu.edu/~mohri/mlu/
 - Oxford Deep Learning : https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
-- MIT Statistical Learning Theory: http://www.mit.edu/~9.520/fall18/
 - Reinforcement Learning, University of Edinburgh: https://www.learn.ed.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_65147_1&content_id=_3052642_1&mode=reset
 - Deep Learning, Carnegie Mellon University: http://deeplearning.cs.cmu.edu
 - Deep Reinforcement Learning, University of California, Berkeley: http://rail.eecs.berkeley.edu/deeprlcourse/
