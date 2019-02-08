@@ -9,7 +9,7 @@ Quite obviously I have not actually read/understoood 100% **everything** that I 
 
 Hopefully you will find some things useful
 
-Nicola 
+*Nicola* 
 
 (P.S. : Guess why my profile picture is an optical illusion..)
 
