@@ -1,7 +1,7 @@
 # ML_learning_resources
-Resources,cheat sheets to learn about machine learning
+Resources, cheat sheets to learn about machine learning
 
-Hello World!
+Hello World
 
 Here I will put pdf files, cheat sheets, anything I have found to be interesting and useful for anyone who wants to start learning about Machine Learning, which is a huge topic and one may get lost into the overwhelming amount of information on the internet. 
 I will be updating this fairly frequently especially at the beginning. Feel free to make me suggestions.
