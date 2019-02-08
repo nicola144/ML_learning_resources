@@ -29,7 +29,7 @@ ML COURSES (these are all reeeeally good):
 - Deep Reinforcement Learning, University of California, Berkeley: http://rail.eecs.berkeley.edu/deeprlcourse/
 
 
-GREAT LITERATURE REVIEWS
+LITERATURE REVIEWS
 - LeCun, Y., Bengio, Y. and Hinton, G., 2015. Deep learning. nature, 521(7553), p.436.
   link:   https://creativecoding.soe.ucsc.edu/courses/cs523/slides/week3/DeepLearning_LeCun.pdf
   
@@ -41,6 +41,9 @@ link: https://www.repository.cam.ac.uk/bitstream/handle/1810/248538/Ghahramani%2
 - Shahriari, B., Swersky, K., Wang, Z., Adams, R.P. and De Freitas, N., 2016. Taking the human out of the loop: A review of bayesian optimization. Proceedings of the IEEE, 104(1), pp.148-175.
 Vancouver	
 link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7352306
+
+- Tomaso Poggio et al. , Why and When Can Deep-but Not Shallow-networks Avoid the Curse of Dimensionality: A Review 
+http://cbmm.mit.edu/sites/default/files/publications/art%253A10.1007%252Fs11633-017-1054-2.pdf
 
 
 YOUTUBE RESOURCES 
