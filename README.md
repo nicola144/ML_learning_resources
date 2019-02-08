@@ -44,7 +44,7 @@ link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7352306
 
 
 YOUTUBE RESOURCES 
-- Mathematical Monk Machine Learning (really good course): https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA
+- Mathematical Monk Machine Learning: https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA
 - 3Blue1Brown playlist on NN (just watch it ! ) : https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 - RL playlist by David Silver : https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
 - CS231n Convolutional Neural Networks for Image Recognition, Stanford (the online course notes are great for practical NN training): https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk
