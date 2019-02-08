@@ -16,7 +16,6 @@ Hopefully you will find some things useful
 
 Note : ALL the material is accessible online, no shaky things here.
 
-
 - What is ML ? N.D. Lawrence :http://videolectures.net/mlss2010_lawrence_mlfcs/
 
 AICamp notes credit : Kainos https://www.kainos.com
@@ -31,6 +30,7 @@ AICamp notes credit : Kainos https://www.kainos.com
 - Deep Learning, Carnegie Mellon University: http://deeplearning.cs.cmu.edu
 - Deep Reinforcement Learning, University of California, Berkeley: http://rail.eecs.berkeley.edu/deeprlcourse/
 
+Practical: https://blog.openai.com/spinning-up-in-deep-rl/
 
 **LITERATURE REVIEWS**
 - LeCun, Y., Bengio, Y. and Hinton, G., 2015. Deep learning. nature, 521(7553), p.436.
