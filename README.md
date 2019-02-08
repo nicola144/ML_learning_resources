@@ -73,10 +73,12 @@ ACTUALLY INTERESTING TALKS ABOUT AI AND ML
 - Zoubin Ghahramani - Probabilistic Machine Learning - The Frontiers of Machine Learning: https://www.youtube.com/watch?v=QEq96wib5tw
 - Interview to Marvin Minsky: https://www.youtube.com/watch?v=EI0NXTrS5Pw
 
-
 OTHER 
 - TensorBoard: https://www.tensorflow.org/guide/summaries_and_tensorboard
 - Comet.ml: https://www.comet.ml
+
+Recent deep learning work: 
+http://www.ipam.ucla.edu/programs/workshops/new-deep-learning-techniques/
 
 FOR ML CONFERENCES:
 - NeurIPS: https://papers.nips.cc
