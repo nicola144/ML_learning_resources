@@ -32,7 +32,9 @@ AICamp notes credit : Kainos https://www.kainos.com
 - Deep Learning, Carnegie Mellon University: http://deeplearning.cs.cmu.edu
 - Deep Reinforcement Learning, University of California, Berkeley: http://rail.eecs.berkeley.edu/deeprlcourse/
 
-Practical: https://blog.openai.com/spinning-up-in-deep-rl/
+Practical: 
+- https://blog.openai.com/spinning-up-in-deep-rl/
+- https://www.deeplearning.ai/deep-learning-specialization/
 
 **LITERATURE REVIEWS**
 - LeCun, Y., Bengio, Y. and Hinton, G., 2015. Deep learning. nature, 521(7553), p.436.
