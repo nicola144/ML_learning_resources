@@ -35,6 +35,7 @@ AICamp notes credit : Kainos https://www.kainos.com
 Practical: 
 - https://blog.openai.com/spinning-up-in-deep-rl/
 - https://www.deeplearning.ai/deep-learning-specialization/
+- https://sites.google.com/view/deep-rl-bootcamp/lectures
 
 **LITERATURE REVIEWS**
 - LeCun, Y., Bengio, Y. and Hinton, G., 2015. Deep learning. nature, 521(7553), p.436.
