@@ -25,6 +25,7 @@ AICamp notes credit : Kainos https://www.kainos.com
 - Machine Learning (Graduate), UBC (Nando De Freitas): https://www.cs.ubc.ca/~nando/540-2013/lectures.html
 - MIT Statistical Learning Theory: http://www.mit.edu/~9.520/fall18/
 - Introduction to Machine Learning, NYU: https://cs.nyu.edu/~mohri/mlu/
+- Introduction to Machine Learning, Princeton: http://www.cs.princeton.edu/courses/archive/fall18/cos324/
 - Oxford Deep Learning : https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
 - Reinforcement Learning, University of Edinburgh: https://www.learn.ed.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_65147_1&content_id=_3052642_1&mode=reset
 - Reinforcement Learning, Richard Sutton: https://drive.google.com/drive/folders/183rD3ERC0ZrH5qc0iGAFbp_3PECGLfby
