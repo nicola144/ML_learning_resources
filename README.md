@@ -35,6 +35,7 @@ AICamp notes credit : Kainos https://www.kainos.com
 - Deep Reinforcement Learning, University of California, Berkeley: http://rail.eecs.berkeley.edu/deeprlcourse/
 
 Practical: 
+- http://www.fast.ai
 - https://blog.openai.com/spinning-up-in-deep-rl/
 - https://www.deeplearning.ai/deep-learning-specialization/
 - https://sites.google.com/view/deep-rl-bootcamp/lectures
