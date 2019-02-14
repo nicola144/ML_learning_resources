@@ -37,6 +37,7 @@ AICamp notes credit : Kainos https://www.kainos.com
 Practical: 
 - http://www.fast.ai
 - https://blog.openai.com/spinning-up-in-deep-rl/
+- https://spinningup.openai.com/en/latest/spinningup/spinningup.html
 - https://www.deeplearning.ai/deep-learning-specialization/
 - https://sites.google.com/view/deep-rl-bootcamp/lectures
 
