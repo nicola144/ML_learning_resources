@@ -35,6 +35,10 @@ AICamp notes credit : Kainos https://www.kainos.com
 - Deep Learning, Carnegie Mellon University: http://deeplearning.cs.cmu.edu
 - Deep Reinforcement Learning, University of California, Berkeley: http://rail.eecs.berkeley.edu/deeprlcourse/
 
+(If you have not taken a university course in Machine Learning yet, I would recommend starting with 
+De Freitas' course undergraduate version: https://www.cs.ubc.ca/~nando/340-2012/lectures.php , or just start with the graduate version linked above if you have a decent maths background , engineering usually suffices. ) 
+
+
 Practical: 
 - http://www.fast.ai
 - https://blog.openai.com/spinning-up-in-deep-rl/
