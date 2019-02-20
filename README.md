@@ -34,6 +34,7 @@ AICamp notes credit : Kainos https://www.kainos.com
 - Reinforcement Learning, Stanford University : http://web.stanford.edu/class/cs234/schedule.html
 - Deep Learning, Carnegie Mellon University: http://deeplearning.cs.cmu.edu
 - Deep Reinforcement Learning, University of California, Berkeley: http://rail.eecs.berkeley.edu/deeprlcourse/
+- Theory of Deep Learning, Stanford : https://stats385.github.io/lecture_slides
 
 (If you have not taken a university course in Machine Learning yet, I would recommend starting with 
 De Freitas' course undergraduate version: https://www.cs.ubc.ca/~nando/340-2012/lectures.php , or just start with the graduate version linked above if you have a decent maths background , engineering usually suffices. ) 
