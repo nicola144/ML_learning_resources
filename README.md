@@ -34,7 +34,6 @@ AICamp notes credit : Kainos https://www.kainos.com
 - Reinforcement Learning, Stanford University : http://web.stanford.edu/class/cs234/schedule.html
 - Deep Learning, Carnegie Mellon University: http://deeplearning.cs.cmu.edu
 - Deep Reinforcement Learning, University of California, Berkeley: http://rail.eecs.berkeley.edu/deeprlcourse/
-- Theory of Deep Learning, Stanford : https://stats385.github.io/lecture_slides
 
 (If you have not taken a university course in Machine Learning yet, I would recommend starting with 
 De Freitas' course undergraduate version: https://www.cs.ubc.ca/~nando/340-2012/lectures.php , or just start with the graduate version linked above if you have a decent maths background , engineering usually suffices. ) 
@@ -82,6 +81,8 @@ http://cbmm.mit.edu/sites/default/files/publications/art%253A10.1007%252Fs11633-
 - A Derivation of Backpropagation in Matrix Form (this was useful for me to have a picture of the overall process, as usually it is presented in vector or even scalar form) : https://sudeepraja.github.io/Neural/
 - An introduction to modern Deep Learning , Yann LeCun : https://cs.nyu.edu/~yann/talks/lecun-ranzato-icml2013.pdf
 - Create deep learning visualizations ! : http://alexlenail.me/NN-SVG/LeNet.html
+- - Theory of Deep Learning, Stanford : https://stats385.github.io/lecture_slides
+
 
 **ACTUALLY INTERESTING TALKS ABOUT AI AND ML**
 - Ali Rahimi At NIPS 2017 criticizing the current state of ML research, comparing it with "alchemy": https://www.youtube.com/watch?v=ORHFOnaEzPc
