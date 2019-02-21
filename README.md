@@ -105,7 +105,7 @@ http://www.ipam.ucla.edu/programs/workshops/new-deep-learning-techniques/
 - NeurIPS: https://papers.nips.cc
 - ICML: http://proceedings.mlr.press
 
-A basic list of people working in ML that you should know about. Check out their work 
+A (very) basic list of people working in ML that you should know about. Check out their work 
 - Zoubin Ghahramani
 - Michael Jordan 
 - Carl Edward Rasmussen 
