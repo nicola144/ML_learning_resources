@@ -28,7 +28,7 @@ AICamp notes credit : Kainos https://www.kainos.com
 - Introduction to Machine Learning, Princeton: http://www.cs.princeton.edu/courses/archive/fall18/cos324/
 - Probabilistic and Unsupervised Learning, Gatsby Computational Neuroscience (UCL): http://www.gatsby.ucl.ac.uk/teaching/courses/ml1/
 - Theoretical Machine Learning, Princeton: http://www.cs.princeton.edu/courses/archive/spring19/cos511/schedule.html
-- Oxford Deep Learning : https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
+- Deep Learning, University of Oxford : https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
 - Reinforcement Learning, University of Edinburgh: https://www.learn.ed.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_65147_1&content_id=_3052642_1&mode=reset
 - Reinforcement Learning, Richard Sutton: https://drive.google.com/drive/folders/183rD3ERC0ZrH5qc0iGAFbp_3PECGLfby
 - Reinforcement Learning, online NPTEL course: https://www.cse.iitm.ac.in/~ravi/courses/Reinforcement%20Learning.html
