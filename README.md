@@ -16,8 +16,6 @@ Hopefully you will find some things useful
 
 Note : ALL the material is accessible online, no shaky things here.
 
-- What is ML ? N.D. Lawrence :http://videolectures.net/mlss2010_lawrence_mlfcs/
-
 AICamp notes credit : Kainos https://www.kainos.com
 
 **ML COURSES** (all great, no particular order)
