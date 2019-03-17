@@ -36,7 +36,7 @@ AICamp notes credit : Kainos https://www.kainos.com
 - Probabilistic Machine Learning, Duke University: http://www2.stat.duke.edu/~sayan/561/2019/
 
 (If you have not taken a university course in Machine Learning yet, I would recommend starting with 
-De Freitas' course undergraduate version: https://www.cs.ubc.ca/~nando/340-2012/lectures.php , or just start with the graduate version linked above if you have a decent maths background , engineering usually suffices. ) 
+De Freitas' course undergraduate version: https://www.cs.ubc.ca/~nando/340-2012/lectures.php , or just start with the graduate version linked above if you have a decent maths background , engineering usually suffices. If you want a book for an easy start, get Rogers and Girolami: A First Course in Machine Learning) 
 
 
 Practical: 
