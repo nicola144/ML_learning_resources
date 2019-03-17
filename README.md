@@ -19,6 +19,9 @@ Note : ALL the material is accessible online, no shaky things here.
 AICamp notes credit : Kainos https://www.kainos.com
 
 **ML COURSES** (all great, no particular order)
+(Note : If you have not taken a university course in Machine Learning yet, I would recommend starting with 
+De Freitas' course undergraduate version: https://www.cs.ubc.ca/~nando/340-2012/lectures.php , or just start with the graduate version linked above if you have a decent maths background , engineering usually suffices. If you want a book for an easy start, get Rogers and Girolami: A First Course in Machine Learning) 
+
 - Machine Learning and Pattern Recognition, University of Edinburgh: https://www.inf.ed.ac.uk/teaching/courses/mlpr/2018/notes/
 - Machine Learning (Graduate), UBC (Nando De Freitas): https://www.cs.ubc.ca/~nando/540-2013/lectures.html
 - MIT Statistical Learning Theory: http://www.mit.edu/~9.520/fall18/
@@ -34,9 +37,6 @@ AICamp notes credit : Kainos https://www.kainos.com
 - Deep Learning, Carnegie Mellon University: http://deeplearning.cs.cmu.edu
 - Deep Reinforcement Learning, University of California, Berkeley: http://rail.eecs.berkeley.edu/deeprlcourse/
 - Probabilistic Machine Learning, Duke University: http://www2.stat.duke.edu/~sayan/561/2019/
-
-(If you have not taken a university course in Machine Learning yet, I would recommend starting with 
-De Freitas' course undergraduate version: https://www.cs.ubc.ca/~nando/340-2012/lectures.php , or just start with the graduate version linked above if you have a decent maths background , engineering usually suffices. If you want a book for an easy start, get Rogers and Girolami: A First Course in Machine Learning) 
 
 
 Practical: 
