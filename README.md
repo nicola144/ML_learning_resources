@@ -18,26 +18,38 @@ Note : ALL the material is accessible online, no shaky things here.
 
 AICamp notes credit : Kainos https://www.kainos.com
 
-**ML COURSES** (all great, no particular order)
+**ML COURSES** (all great, no particular order. Grouped by focus)
 (Note : If you have not taken a university course in Machine Learning yet, I would recommend starting with 
 De Freitas' course undergraduate version: https://www.cs.ubc.ca/~nando/340-2012/lectures.php , or just start with the graduate version linked above if you have a decent maths background , engineering usually suffices. If you want a book for an easy start, get Rogers and Girolami: A First Course in Machine Learning) 
 
+**General ML** : 
 - Machine Learning and Pattern Recognition, University of Edinburgh: https://www.inf.ed.ac.uk/teaching/courses/mlpr/2018/notes/
-- Machine Learning (Graduate), UBC (Nando De Freitas): https://www.cs.ubc.ca/~nando/540-2013/lectures.html
-- MIT Statistical Learning Theory: http://www.mit.edu/~9.520/fall18/
+- Machine Learning and Bayesian Inference, Cambridge University : https://www.cl.cam.ac.uk/teaching/1718/MLBayInfer/materials.html
+- Machine Learning (Graduate), UBC (Nando De Freitas, DeepMind): https://www.cs.ubc.ca/~nando/540-2013/lectures.html
+Introduction to Machine Learning, Princeton: http://www.cs.princeton.edu/courses/archive/fall18/cos324/
+
+**Probabilistic ML focus** : 
+- Probabilistic Machine Learning, Duke University: http://www2.stat.duke.edu/~sayan/561/2019/
+- Probabilistic Machine Learning, Cambridge University: https://www.cl.cam.ac.uk/teaching/1718/MLBayInfer/materials.html
 - Introduction to Machine Learning, NYU: https://cs.nyu.edu/~mohri/mlu/
-- Introduction to Machine Learning, Princeton: http://www.cs.princeton.edu/courses/archive/fall18/cos324/
 - Probabilistic and Unsupervised Learning, Gatsby Computational Neuroscience (UCL): http://www.gatsby.ucl.ac.uk/teaching/courses/ml1/
-- Theoretical Machine Learning, Princeton: http://www.cs.princeton.edu/courses/archive/spring19/cos511/schedule.html
-- Deep Learning, University of Oxford : https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
+- Statistical Pattern Processing, Cambridge University:  http://mi.eng.cam.ac.uk/~mjfg/local/4F10/
+**Deep Learning/ Neural Nets focus** : 
+- Deep Learning, University of Oxford (Nando De Freitas) : https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
+- Deep Learning, Carnegie Mellon University: http://deeplearning.cs.cmu.edu
+
+**Statistical Learning /  theory focus** : 
+Statistical Learning Theory, MIT : http://www.mit.edu/~9.520/fall18 
+Theoretical Machine Learning, Princeton University: http://www.cs.princeton.edu/courses/archive/spring19/cos511/schedule.html
+
+**RL** : 
 - Reinforcement Learning, University of Edinburgh: https://www.learn.ed.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_65147_1&content_id=_3052642_1&mode=reset
 - Reinforcement Learning, Richard Sutton: https://drive.google.com/drive/folders/183rD3ERC0ZrH5qc0iGAFbp_3PECGLfby
+- Reinforcement Learning, David Silver: http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
 - Reinforcement Learning, online NPTEL course: https://www.cse.iitm.ac.in/~ravi/courses/Reinforcement%20Learning.html
 - Reinforcement Learning, Stanford University : http://web.stanford.edu/class/cs234/schedule.html
-- Deep Learning, Carnegie Mellon University: http://deeplearning.cs.cmu.edu
-- Deep Reinforcement Learning, University of California, Berkeley: http://rail.eecs.berkeley.edu/deeprlcourse/
-- Probabilistic Machine Learning, Duke University: http://www2.stat.duke.edu/~sayan/561/2019/
-- Statistical Pattern Processing, Cambridge University:  http://mi.eng.cam.ac.uk/~mjfg/local/4F10/
+- Deep Reinforcement Learning, University of California Berkeley: http://rail.eecs.berkeley.edu/deeprlcourse/
+
 
 
 Practical: 
