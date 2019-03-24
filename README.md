@@ -34,6 +34,7 @@ Introduction to Machine Learning, Princeton: http://www.cs.princeton.edu/courses
 - Introduction to Machine Learning, NYU: https://cs.nyu.edu/~mohri/mlu/
 - Probabilistic and Unsupervised Learning, Gatsby Computational Neuroscience (UCL): http://www.gatsby.ucl.ac.uk/teaching/courses/ml1/
 - Statistical Pattern Processing, Cambridge University:  http://mi.eng.cam.ac.uk/~mjfg/local/4F10/
+
 **Deep Learning/ Neural Nets focus** : 
 - Deep Learning, University of Oxford (Nando De Freitas) : https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
 - Deep Learning, Carnegie Mellon University: http://deeplearning.cs.cmu.edu
