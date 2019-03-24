@@ -39,9 +39,11 @@ Introduction to Machine Learning, Princeton: http://www.cs.princeton.edu/courses
 - Deep Learning, University of Oxford (Nando De Freitas) : https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
 - Deep Learning, Carnegie Mellon University: http://deeplearning.cs.cmu.edu
 
+
 **Statistical Learning /  theory focus** : 
-Statistical Learning Theory, MIT : http://www.mit.edu/~9.520/fall18 
-Theoretical Machine Learning, Princeton University: http://www.cs.princeton.edu/courses/archive/spring19/cos511/schedule.html
+- Statistical Learning Theory, MIT : http://www.mit.edu/~9.520/fall18 
+- Theoretical Machine Learning, Princeton University: http://www.cs.princeton.edu/courses/archive/spring19/cos511/schedule.html
+
 
 **RL** : 
 - Reinforcement Learning, University of Edinburgh: https://www.learn.ed.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_65147_1&content_id=_3052642_1&mode=reset
