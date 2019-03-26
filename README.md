@@ -26,7 +26,7 @@ De Freitas' course undergraduate version: https://www.cs.ubc.ca/~nando/340-2012/
 - Machine Learning and Pattern Recognition, University of Edinburgh: https://www.inf.ed.ac.uk/teaching/courses/mlpr/2018/notes/
 - Machine Learning and Bayesian Inference, Cambridge University : https://www.cl.cam.ac.uk/teaching/1718/MLBayInfer/materials.html
 - Machine Learning (Graduate), UBC (Nando De Freitas, DeepMind): https://www.cs.ubc.ca/~nando/540-2013/lectures.html
-Introduction to Machine Learning, Princeton: http://www.cs.princeton.edu/courses/archive/fall18/cos324/
+- Introduction to Machine Learning, Princeton: http://www.cs.princeton.edu/courses/archive/fall18/cos324/
 
 **Probabilistic ML focus** : 
 - Probabilistic Machine Learning, Duke University: http://www2.stat.duke.edu/~sayan/561/2019/
