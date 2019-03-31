@@ -114,6 +114,11 @@ http://cbmm.mit.edu/sites/default/files/publications/art%253A10.1007%252Fs11633-
 - TensorBoard: https://www.tensorflow.org/guide/summaries_and_tensorboard
 - Comet.ml: https://www.comet.ml
 
+**BLOG POSTS**
+- https://lilianweng.github.io/lil-log/
+- https://jontysinai.github.io/jekyll/update/2019/01/18/understanding-neural-odes.html
+
+
 Recent deep learning work: 
 http://www.ipam.ucla.edu/programs/workshops/new-deep-learning-techniques/
 
