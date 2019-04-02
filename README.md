@@ -109,6 +109,7 @@ http://cbmm.mit.edu/sites/default/files/publications/art%253A10.1007%252Fs11633-
 - Yann LeCun on the future of AI: https://www.youtube.com/watch?v=U2mhZ9E8Fk8
 - Zoubin Ghahramani - Probabilistic Machine Learning - The Frontiers of Machine Learning: https://www.youtube.com/watch?v=QEq96wib5tw
 - Interview to Marvin Minsky: https://www.youtube.com/watch?v=EI0NXTrS5Pw
+- Michael I. Jordan : https://www.youtube.com/watch?v=4inIBmY8dQI
 
 **OTHER**
 - TensorBoard: https://www.tensorflow.org/guide/summaries_and_tensorboard
