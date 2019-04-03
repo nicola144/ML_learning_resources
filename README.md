@@ -138,6 +138,7 @@ A (very) basic list of people working in ML that you should know about. Check ou
 - Michael I. Jordan 
 - Zoubin Ghahramani
 - Carl Edward Rasmussen 
+- Eric P. Xing
 - Geoffrey Hinton 
 - Yoshua Bengio 
 - Yann Lecun 
