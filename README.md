@@ -36,6 +36,7 @@ De Freitas' course undergraduate version: https://www.cs.ubc.ca/~nando/340-2012/
 - Introduction to Machine Learning, NYU: https://cs.nyu.edu/~mohri/mlu/
 - Probabilistic and Unsupervised Learning, Gatsby Computational Neuroscience (UCL): http://www.gatsby.ucl.ac.uk/teaching/courses/ml1/
 - Statistical Pattern Processing, Cambridge University:  http://mi.eng.cam.ac.uk/~mjfg/local/4F10/
+- Probabilistic Graphical Models, Carnegie Mellon University: https://sailinglab.github.io/pgm-spring-2019/lectures/
 
 **Deep Learning/ Neural Nets focus** : 
 - Deep Learning, University of Oxford (Nando De Freitas) : https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
