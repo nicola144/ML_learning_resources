@@ -18,6 +18,8 @@ Note : ALL the material is accessible online, no shaky things here.
 
 AICamp notes credit : Kainos https://www.kainos.com
 
+My *favourite* blog post about the current state of """ AI  """" by none less than Michael I. Jordan : https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7
+
 **ML COURSES** (all great, no particular order. Grouped by focus)
 (Note : If you have not taken a university course in Machine Learning yet, I would recommend starting with 
 De Freitas' course undergraduate version: https://www.cs.ubc.ca/~nando/340-2012/lectures.php , or just start with the graduate version linked above if you have a decent maths background , engineering usually suffices. If you want a book for an easy start, get Rogers and Girolami: A First Course in Machine Learning) 
