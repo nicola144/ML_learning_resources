@@ -135,8 +135,8 @@ http://www.ipam.ucla.edu/programs/workshops/new-deep-learning-techniques/
 - ICML: http://proceedings.mlr.press
 
 A (very) basic list of people working in ML that you should know about. Check out their work 
+- Michael I. Jordan 
 - Zoubin Ghahramani
-- Michael Jordan 
 - Carl Edward Rasmussen 
 - Geoffrey Hinton 
 - Yoshua Bengio 
