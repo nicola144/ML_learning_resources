@@ -77,6 +77,8 @@ link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7352306
 - Tomaso Poggio et al. , Why and When Can Deep-but Not Shallow-networks Avoid the Curse of Dimensionality: A Review , 2017
 http://cbmm.mit.edu/sites/default/files/publications/art%253A10.1007%252Fs11633-017-1054-2.pdf
 
+- Schmidhuber, J., 2015. Deep learning in neural networks: An overview. Neural networks, 61, pp.85-117. https://arxiv.org/pdf/1404.7828.pdf
+
 
 **YOUTUBE RESOURCES**
 - Mathematical Monk Machine Learning: https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA
