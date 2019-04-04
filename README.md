@@ -29,6 +29,7 @@ De Freitas' course undergraduate version: https://www.cs.ubc.ca/~nando/340-2012/
 - Machine Learning and Bayesian Inference, Cambridge University : https://www.cl.cam.ac.uk/teaching/1718/MLBayInfer/materials.html
 - Machine Learning (Graduate), UBC (Nando De Freitas, DeepMind): https://www.cs.ubc.ca/~nando/540-2013/lectures.html
 - Introduction to Machine Learning, Princeton: http://www.cs.princeton.edu/courses/archive/fall18/cos324/
+- *Advanced* Machine Learning, Cornell University: http://www.cs.cornell.edu/courses/cs6780/2019sp/
 
 **Probabilistic ML focus** : 
 - Probabilistic Machine Learning, Duke University: http://www2.stat.duke.edu/~sayan/561/2019/
