@@ -121,11 +121,13 @@ http://cbmm.mit.edu/sites/default/files/publications/art%253A10.1007%252Fs11633-
 - TensorBoard: https://www.tensorflow.org/guide/summaries_and_tensorboard
 - Comet.ml: https://www.comet.ml
 
-**BLOGS**
+**INTERESTING BLOGS**
+- http://www.cs.ox.ac.uk/people/yarin.gal/website/blog.html
 - https://lilianweng.github.io/lil-log/
 - https://jontysinai.github.io/jekyll/update/2019/01/18/understanding-neural-odes.html
 - https://thegradient.pub/why-rl-is-flawed/
 - https://lindeloev.github.io/tests-as-linear/?fbclid=IwAR25C7NtO5vSI2XrqIPNz57vhffaEy1o0w88GP7df95CqJRhxo3W3bAvXoo
+- https://www.inference.vc/untitled/
 - Minsky's book online: http://aurellem.org/society-of-mind/
 
 
