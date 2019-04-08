@@ -132,9 +132,6 @@ http://cbmm.mit.edu/sites/default/files/publications/art%253A10.1007%252Fs11633-
 - Minsky's book online: http://aurellem.org/society-of-mind/
 
 
-Recent deep learning work: 
-http://www.ipam.ucla.edu/programs/workshops/new-deep-learning-techniques/
-
 **ML CONFERENCES** (of course there are more)
 - NeurIPS: https://papers.nips.cc
 - ICML: http://proceedings.mlr.press
