@@ -128,6 +128,7 @@ http://cbmm.mit.edu/sites/default/files/publications/art%253A10.1007%252Fs11633-
 - https://thegradient.pub/why-rl-is-flawed/
 - https://lindeloev.github.io/tests-as-linear/?fbclid=IwAR25C7NtO5vSI2XrqIPNz57vhffaEy1o0w88GP7df95CqJRhxo3W3bAvXoo
 - https://www.inference.vc/untitled/
+- https://oneraynyday.github.io
 - Minsky's book online: http://aurellem.org/society-of-mind/
 
 
