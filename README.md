@@ -136,7 +136,7 @@ http://cbmm.mit.edu/sites/default/files/publications/art%253A10.1007%252Fs11633-
 - NeurIPS: https://papers.nips.cc
 - ICML/KDD/AISTATS: http://proceedings.mlr.press
 
-A (very) basic list of people working in ML that you should know about. Check out their work 
+A (very) basic list of people working in ML that you should know about. Check out their work (no particular order)
 - Michael I. Jordan 
 - Zoubin Ghahramani
 - Carl Edward Rasmussen 
