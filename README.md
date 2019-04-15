@@ -18,7 +18,7 @@ Note : ALL the material is accessible online, no shaky things here.
 
 AICamp notes credit : Kainos https://www.kainos.com
 
-My *favourite* blog post about the current state of """ AI  """" by none less than Michael I. Jordan : https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7
+Good blog post about the current state of """ AI  """" by none less than Michael I. Jordan : https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7
 
 **ML COURSES** (all great, no particular order. Grouped by focus)
 (Note : If you have not taken a university course in Machine Learning yet, I would recommend starting with 
