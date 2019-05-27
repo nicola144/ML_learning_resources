@@ -42,6 +42,7 @@ De Freitas' course undergraduate version: https://www.cs.ubc.ca/~nando/340-2012/
 **Deep Learning/ Neural Nets focus** : 
 - Deep Learning, University of Oxford (Nando De Freitas) : https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
 - Deep Learning, Carnegie Mellon University: http://deeplearning.cs.cmu.edu
+- Deep Learning, EPFL: http://fleuret.org/ee559/#slides
 
 
 **Statistical Learning /  theory focus** : 
