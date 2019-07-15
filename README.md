@@ -124,6 +124,7 @@ http://cbmm.mit.edu/sites/default/files/publications/art%253A10.1007%252Fs11633-
 
 **INTERESTING BLOGS**
 - http://www.cs.ox.ac.uk/people/yarin.gal/website/blog.html
+- https://blog.ml.cmu.edu
 - https://lilianweng.github.io/lil-log/
 - https://jontysinai.github.io/jekyll/update/2019/01/18/understanding-neural-odes.html
 - https://thegradient.pub/why-rl-is-flawed/
