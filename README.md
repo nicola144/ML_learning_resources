@@ -34,6 +34,7 @@ De Freitas' course undergraduate version: https://www.cs.ubc.ca/~nando/340-2012/
 
 **Probabilistic ML focus** : 
 - Probabilistic Machine Learning, Duke University: http://www2.stat.duke.edu/~sayan/561/2019/
+- Advanced Machine Learning, Toronto (Geoff Hinton): http://www.cs.toronto.edu/~hinton/csc2535/
 - Probabilistic Machine Learning, Cambridge University: https://www.cl.cam.ac.uk/teaching/1718/MLBayInfer/materials.html
 - Probabilistic and Unsupervised Learning, Gatsby Computational Neuroscience (UCL): http://www.gatsby.ucl.ac.uk/teaching/courses/ml1/
 - Statistical Pattern Processing, Cambridge University:  http://mi.eng.cam.ac.uk/~mjfg/local/4F10/
