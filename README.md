@@ -49,6 +49,7 @@ De Freitas' course undergraduate version: https://www.cs.ubc.ca/~nando/340-2012/
 - Statistical Learning Theory, MIT : http://www.mit.edu/~9.520/fall18 
 - Theoretical Machine Learning, Princeton University: http://www.cs.princeton.edu/courses/archive/spring19/cos511/schedule.html
 - Introduction to Statistical Learning Theory, UCL : https://cciliber.github.io/intro-slt/
+- Statistical Learning Theory, UCBerkeley : https://bcourses.berkeley.edu/courses/1409209/pages/lectures
 
 
 **RL** : 
