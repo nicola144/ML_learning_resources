@@ -69,6 +69,9 @@ Practical:
 - https://www.deeplearning.ai/deep-learning-specialization/
 - https://sites.google.com/view/deep-rl-bootcamp/lectures
 
+
+Here is another great list of resources : http://rise.cse.iitm.ac.in/wiki/index.php/Introduction_to_Machine_Learning
+
 **LITERATURE REVIEWS**
 - LeCun, Y., Bengio, Y. and Hinton, G., 2015. Deep learning. nature, 521(7553), p.436.
   link:   https://creativecoding.soe.ucsc.edu/courses/cs523/slides/week3/DeepLearning_LeCun.pdf
