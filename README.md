@@ -143,6 +143,7 @@ http://cbmm.mit.edu/sites/default/files/publications/art%253A10.1007%252Fs11633-
 **ML CONFERENCES** (of course there are more)
 - NeurIPS: https://papers.nips.cc
 - ICML/KDD/AISTATS: http://proceedings.mlr.press
+- MSML: http://www.smartchair.org/hp/MSML2020
 
 A (very) basic list of people working in ML that you should know about. Check out their work (no particular order)
 - Michael I. Jordan 
